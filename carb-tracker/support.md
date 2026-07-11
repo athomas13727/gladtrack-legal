@@ -1,7 +1,7 @@
 # Carb Tracker by GladTrack - Support Page
 
 **Contact & Response Time**
-The developer can be reached at athomas13727@gmail.com, with a typical response window of a few business days.
+The developer can be reached at GladTrack.support@gmail.com, with a typical response window of a few business days.
 
 **No Account Required**
 Carb Tracker works entirely offline and stores everything locally on your device. There's no sign-in, registration, or internet connection required to log food or see your progress.

@@ -74,5 +74,5 @@ We may update this Privacy Policy from time to time, for example if we add a new
 
 If you have questions about this Privacy Policy, contact us at:
 
-- **Email:** athomas13727@gmail.com
+- **Email:** GladTrack.support@gmail.com
 - **Developer:** Aaron Thomas (GladTrack)
